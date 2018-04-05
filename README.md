@@ -1,1 +1,1 @@
-##JpaSecondaryTable
+##JPA::JpaSecondaryTable
